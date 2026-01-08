@@ -13,7 +13,7 @@ A 15-hour coding marathon bringing together developers, designers, and innovator
 - **Member 2:** [Name] - [College]
 - **Member 3:** [Name] - [College]
 
-## Game Description
+## Project Description
 [2-3 lines about your project.]
 
 ## The Concept
