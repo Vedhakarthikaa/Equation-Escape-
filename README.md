@@ -2,55 +2,59 @@
 A 15-hour coding marathon bringing together developers, designers, and innovators to create exciting, fun, and original projects. 
 
 
-#{Game Name]
+# [Game Name] 
 
-Basic Details
-Team Name: [Your Team Name]
+## Basic Details
 
-Team Members
-Team Lead: [Name] - [College]
-Member 2: [Name] - [College]
-Member 3: [Name] - [College]
+**Team Name:** [Your Team Name]
 
+### Team Members
+- **Team Lead:** [Name] - [College]
+- **Member 2:** [Name] - [College]
+- **Member 3:** [Name] - [College]
 
-Project Description
-[2-3 lines about your project]
+## Game Description
+[2-3 lines about your project.]
 
-The Concept
-[Explain the core idea of your project, main objective,mathematical concepts incorporated.]
+## The Concept
+[Explain the core idea of the project, main objective and mathematical concepts incorporated]
 
-Technical Details
+## Technical Details
 
-Technologies Used
-Languages: [C#, Python, JavaScript, etc.]
-Libraries/Assets: [Any relevant libraries, APIs, or assets used]
-Tools: [Version control, graphic editors, sound tools, etc.]
+### Technologies Used
+- **Languages:** [C#, Python, JavaScript, etc.]
+- **Frameworks:** 
+- **Libraries/Assets:** [Any relevant libraries, APIs, or assets used]
+- **Tools:** [Version control, graphic editors, sound tools, etc.]
 
+### Implementation
 
-
-Implementation
-Installation / Setup
+#### Installation / Setup
 [To build and run the game manually from source:]
 
-Example:
-
+**Example:**
+```bash
    git clone https://github.com/[YourRepo]/[GameName].git
    cd [GameName]
-Game Documentation
-Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 link)
-Add caption explaining what this shows
+```
 
-![Screenshot2](Add screenshot 2 link)
-Add caption explaining what this shows
+## Project Documentation
 
-![Screenshot3](Add screenshot 3 link)
-Add caption explaining what this shows
+### Screenshots (Add at least 3)
 
-Game Demo
-Gameplay Video
-[Add link to gameplay video]
+![Screenshot1](Add screenshot 1 link)  
+*Add caption explaining what this shows*
 
-Game Download / Deployment
-Playable Version / Download: [Link to executable or archive]
-Deployed Web Version (if any): [Link to web build]
+![Screenshot2](Add screenshot 2 link)  
+*Add caption explaining what this shows*
+
+![Screenshot3](Add screenshot 3 link)  
+*Add caption explaining what this shows*
+
+### Project Demo
+
+#### Project Video
+[Add link of your project demo]  
+
+## Deployment
+- **Deployed Web Version (if any):** [Link to web build]
