@@ -2,7 +2,7 @@
 A 15-hour coding marathon bringing together developers, designers, and innovators to create exciting, fun, and original projects. 
 
 
-# [Game Name] 
+# [Project-Name] 
 
 ## Basic Details
 
@@ -57,4 +57,4 @@ A 15-hour coding marathon bringing together developers, designers, and innovator
 [Add link of your project demo]  
 
 ## Deployment
-- **Deployed Web Version (if any):** [Link to web build]
+- **Deployed Version (if any):** [Link to web build]
