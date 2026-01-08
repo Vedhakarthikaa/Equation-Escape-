@@ -34,8 +34,8 @@ A 15-hour coding marathon bringing together developers, designers, and innovator
 
 **Example:**
 ```bash
-   git clone https://github.com/[YourRepo]/[GameName].git
-   cd [GameName]
+   git clone https://github.com/[YourRepo]/[Project Name}.git
+   cd [ProjectName]
 ```
 
 ## Project Documentation
