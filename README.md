@@ -30,7 +30,7 @@ A 15-hour coding marathon bringing together developers, designers, and innovator
 ### Implementation
 
 #### Installation / Setup
-[To build and run the game manually from source:]
+[To build and run the project manually from source:]
 
 **Example:**
 ```bash
