@@ -14,10 +14,10 @@ A 15-hour coding marathon bringing together developers, designers, and innovator
 - **Member 3:** [Sana Safiya] - [TKM College of Engineering]
 
 ## Project Description
-[ Loki is a Smart Revision Planner helps students study smarter by predicting forgetting and scheduling revision at the right time. It uses AI based quizzes and mathematical memory modeling to improve learning efficiency.]
+Loki is a Smart Revision Planner helps students study smarter by predicting forgetting and scheduling revision at the right time. It uses AI based quizzes and mathematical memory modeling to improve learning efficiency.
 
 ## The Concept
-[1. Memory Retention Modeling (Spaced Repetition)
+1. Memory Retention Modeling (Spaced Repetition)
 The project is based on a simplified memory decay model, inspired by the forgetting curve.
 Each topic is assigned a memory strength value, which determines how quickly the learner is likely to forget the material. Using this value, the system mathematically estimates the optimal next revision time, ensuring revisions happen just before memory decay becomes significant.
 
@@ -41,7 +41,7 @@ This creates a feedback loop between performance and learning pace.
 
 5. Data‑Driven Decision Making
    
-All decisions in the system—revision timing, quiz generation, and timetable creation—are driven by numerical values, comparisons, and calculated outputs, ensuring consistency, objectivity, and personalization.]
+All decisions in the system revision timing, quiz generation, and timetable creation—are driven by numerical values, comparisons, and calculated outputs, ensuring consistency, objectivity, and personalization.
 
 ## Technical Details
 
@@ -66,10 +66,10 @@ cd Loci
 ![[Screenshot1](https://drive.google.com/file/d/1tmcIx2sJPeNJhd-7dtKNkT9gI1nuvG29/view?usp=sharing)](Add screenshot 1 link)  
 *This is the homepage of Loci, where we mention the topics studied and also the quiz for the topic*
 
-![Screenshot2]([Add screenshot 2 lin](https://drive.google.com/file/d/198Gqmk9T5UMDRNy8W080480FOebYuNik/view?usp=sharing))  
+![Screenshot2](https://drive.google.com/file/d/198Gqmk9T5UMDRNy8W080480FOebYuNik/view?usp=sharing)  
 *This screenshot shows the demo of quiz ,on topic suggestion*
 
-![Screenshot3]([Add screenshot 3 link](https://drive.google.com/file/d/1LC0ouMhhM9hCgJqA7jSBwyo-dD4pb1QC/view?usp=sharing))  
+![Screenshot3]((https://drive.google.com/file/d/1LC0ouMhhM9hCgJqA7jSBwyo-dD4pb1QC/view?usp=sharing))  
 *This is the final outcome where the final customized timetable is provoded with respect to the quiz taken and also from stored db*
 
 ### Project Demo
