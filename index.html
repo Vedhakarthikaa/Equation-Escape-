@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EEG Brain State Analyzer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="home.css">
+</head>
+<body>
+
+<header class="navbar">
+  <h1>🧠 EEG Brain State Analyzer</h1>
+</header>
+
+<section class="hero">
+  <h2>Visualizing Brain Activity Using Mathematics</h2>
+  <p>
+    A real‑time EEG simulation that uses signal processing and
+    frequency‑band analysis to detect mental states.
+  </p>
+
+  <!-- 🧮 MATH ANIMATION -->
+  <div class="math-box">
+    <div class="math-line">sin(2π · 2t)  →  Delta (Sleep)</div>
+    <div class="math-line">sin(2π · 6t)  →  Theta (Drowsy)</div>
+    <div class="math-line">sin(2π · 10t) →  Alpha (Relaxed)</div>
+    <div class="math-line">sin(2π · 20t) →  Beta (Focus)</div>
+
+    <div class="math-result">
+      EEG(t) = Σ sin(2πft) + noise
+    </div>
+  </div>
+
+  <button onclick="goToDashboard()">▶ Enter Live Analyzer</button>
+</section>
+
+<footer>
+  <p>Math × Signal Processing × Neuroscience</p>
+</footer>
+
+<script src="home.js"></script>
+</body>
+</html>
