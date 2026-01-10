@@ -24,6 +24,10 @@ The project demonstrates how raw brain signals, which exist in the time domain, 
 - **Languages:** Python,Javascript,html,css
 
 
+### repo url
+   https://github.com/Gourinarayanan/eeg
+
+   
 ### Implementation
    https://gourinarayanan.github.io/eeg/
 
