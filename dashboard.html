@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EEG Brain State Analyzer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <h1>🧠 EEG Brain State Analyzer</h1>
+  <p>Mathematical Signal Processing for Brain Activity</p>
+</header>
+
+<div class="dashboard">
+
+  <!-- LEFT PANEL -->
+  <div class="panel controls-panel">
+    <h2>Controls</h2>
+
+    <button class="btn primary" onclick="startRealtimeEEG()">
+      ▶ Start Live EEG
+    </button>
+
+    <button class="btn secondary" onclick="stopRealtimeEEG()">
+      ⏹ Stop EEG
+    </button>
+
+    <div id="state" class="state-card">
+      Brain State: —
+    </div>
+
+    <div class="legend">
+      <h3>Frequency Bands</h3>
+      <p><b>Delta:</b> Sleep</p>
+      <p><b>Theta:</b> Drowsy</p>
+      <p><b>Alpha:</b> Relaxed</p>
+      <p><b>Beta:</b> Focus / Stress</p>
+    </div>
+  </div>
+
+  <!-- RIGHT PANEL -->
+  <div class="panel visualization-panel">
+    <div class="chart-card">
+      <h3>Time Domain EEG Signal (Real‑Time)</h3>
+      <canvas id="signalCanvas"></canvas>
+    </div>
+
+    <div class="chart-card">
+      <h3>Frequency Domain (Band Energy)</h3>
+      <canvas id="freqCanvas"></canvas>
+    </div>
+  </div>
+
+</div>
+
+<!-- YOUR EEG LOGIC -->
+<script src="eeg.js" defer></script>
+
+</body>
+</html>
