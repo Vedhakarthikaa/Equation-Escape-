@@ -2,59 +2,44 @@
 A 15-hour coding marathon bringing together developers, designers, and innovators to create exciting, fun, and original projects. 
 
 
-# [Project-Name] 
+# EEG Brain state analyser
 
 ## Basic Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** INFINITY
 
 ### Team Members
-- **Team Lead:** [Name] - [College]
-- **Member 2:** [Name] - [College]
-- **Member 3:** [Name] - [College]
+- **Team Lead:** Akash A S - TKM College of engineering
+- **Member 2:** Gouri Narayanan - TKM College of engineering
+- **Member 3:** Swaminath S -TKM College of engineering
 
 ## Project Description
-[2-3 lines about your project.]
+The EEG Brain State Analyzer is a real‑time web application that simulates and analyzes EEG (Electroencephalogram) signals to determine human brain states such as Relaxed, Focused/Stressed, and Sleepy.
+The project demonstrates how raw brain signals, which exist in the time domain, can be transformed into meaningful frequency‑based brain activity insights using signal processing techniques.
 
-## The Concept
-[Explain the core idea of the project, main objective and mathematical concepts incorporated]
 
 ## Technical Details
 
 ### Technologies Used
-- **Languages:** [C#, Python, JavaScript, etc.]
-- **Frameworks:** 
-- **Libraries/Assets:** [Any relevant libraries, APIs, or assets used]
-- **Tools:** [Version control, graphic editors, sound tools, etc.]
+- **Languages:** Python,Javascript,html,css
+
 
 ### Implementation
-
-#### Installation / Setup
-[To build and run the project manually from source:]
-
-**Example:**
-```bash
-   git clone https://github.com/[YourRepo]/[Project Name}.git
-   cd [ProjectName]
-```
+   https://gourinarayanan.github.io/eeg/
 
 ## Project Documentation
 
-### Screenshots (Add at least 3)
+### Screenshots 
 
-![Screenshot1](Add screenshot 1 link)  
-*Add caption explaining what this shows*
+![WhatsApp Image 2026-01-10 at 6 56 47 AM (2)](https://github.com/user-attachments/assets/7edf12c7-9894-4eaf-88a6-437b8ca31f84)
+![WhatsApp Image 2026-01-10 at 6 56 47 AM (1)](https://github.com/user-attachments/assets/92732fdd-244c-4b6c-98f7-b8a7298a28c5)
+![WhatsApp Image 2026-01-10 at 6 56 47 AM](https://github.com/user-attachments/assets/1e36946b-5de2-4566-869a-85c556d0c76e)
 
-![Screenshot2](Add screenshot 2 link)  
-*Add caption explaining what this shows*
+###recording
 
-![Screenshot3](Add screenshot 3 link)  
-*Add caption explaining what this shows*
 
-### Project Demo
+https://github.com/user-attachments/assets/0b26b127-bd09-493b-82e7-75908a120dd7
 
-#### Project Video
-[Add link of your project demo]  
 
-## Deployment
-- **Deployed Version (if any):** [Link to web build]
+
+
